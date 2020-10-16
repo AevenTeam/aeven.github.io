@@ -1,0 +1,18 @@
+{
+	"realms": [
+		{
+			"id": "solterra",
+			"name": "Solterra",
+			"address": "realms.aeven.us",
+			"port": 25600,
+			"version": "1.0.0"
+		},
+		{
+			"id": "tieracus",
+			"name": "Tieracus",
+			"address": "realms.aeven.us",
+			"port": 25601,
+			"version": "1.0.0"
+		}
+	]
+}
